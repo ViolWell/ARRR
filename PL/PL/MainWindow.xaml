@@ -8,7 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Rectangle HorizontalAlignment="Center" Height="367" VerticalAlignment="Top" Width="690" Margin="0,32,0,0" Stroke="#FFF754E1" RenderTransformOrigin="0.5,0.5"/>
-        <Button Content="" HorizontalAlignment="Center" VerticalAlignment="Top" Height="358" Width="682" Margin="0,37,0,0" Background="#FFF754E1"/>
+        <Button Content="" HorizontalAlignment="Center" VerticalAlignment="Top" Height="358" Width="682" Margin="0,37,0,0" Background="#FF54F765"/>
 
     </Grid>
 </Window>
